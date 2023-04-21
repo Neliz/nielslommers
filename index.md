@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Classification of insulated rail joints](/sample_page)
+[Image classification of insulated rail joints](/projects/ESlassen.md)
 <img src="images/gradcam.jpeg?raw=true"/>
 
 ---
