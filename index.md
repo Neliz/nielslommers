@@ -1,8 +1,9 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Projecten
+
 
 [Image classification of insulated rail joints](/projects/ESlassen.md)
 <img src="images/gradcam.jpeg?raw=true"/>
@@ -17,19 +18,21 @@
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+## Graduation Project
+- Descending: Measuring and comparing descending technique and performance in professional road cycling
+
+### Publications
+- [NOS](https://nos.nl/op3/artikel/2071886-kort-door-de-bocht-deze-fiets-helpt-wielrenners-met-dalen)
+- [Delta TU Delft](https://www.delta.tudelft.nl/article/gaining-time-corners)
+- [Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A437a6090-1e62-44fd-8426-9024efc4bd05)
+
 
 ---
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

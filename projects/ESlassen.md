@@ -1,31 +1,21 @@
-## This can be your internal website page / project page
+## Image classification of insulated rail joints
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Identifing insulated rail joints
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+ProRail wants to know the location of all its insulated rail joints. To ensure the safety of the railway system.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The goal was to developed a machine learning model and pipeline to accurately detect insulated rail joints in video footage.
 
-### 2. Assess assumptions on which statistical inference will be based
+### Solution
+We created a machine learning pipeline that includes preprocessing, classification, postprocessing and linking to SAP. The pipeline uses a convolutional neural network (CNN) to extract frames from the video  and classify them as containing an insulated rail joint or not. We also used GradCAM to visualize the regions of the video frames that were important for the model's prediction. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="../images/gradcam.jpeg?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+The machine learning model achieved an accuracy of 99,5% on a test set of video footage, demonstrating its effectiveness in detecting insulated rail joints. The GradCAM visualizations provided insights into the model's decision-making process and helped identify areas for improvement.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Results
+The machine learning model and pipeline developed for ProRail provides an efficient and accurate solution for detecting electric rail welds in video footage, ensuring the safety and reliability of the railway system. The use of GradCAM further enhances the interpretability and transparency of the model's predictions.
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
