@@ -24,6 +24,7 @@
 
 ## Graduation Project
 Descending: Measuring and comparing descending technique and performance in professional road cycling
+<img src="images/descending.jpeg?raw=true"/>
 
 **Publications:**
 - [NOS](https://nos.nl/op3/artikel/2071886-kort-door-de-bocht-deze-fiets-helpt-wielrenners-met-dalen)
