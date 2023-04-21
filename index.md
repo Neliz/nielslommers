@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Classification of insulated rail joints ](/sample_page)
-<img src="images/gradcam.jpg?raw=true"/>
+[Classification of insulated rail joints](/sample_page)
+<img src="images/gradcam.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
