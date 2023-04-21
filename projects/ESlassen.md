@@ -1,10 +1,6 @@
 ## Image classification of insulated rail joints
 
-**Project description:** 
-
-### Identifing insulated rail joints
-
-ProRail wants to know the location of all its insulated rail joints. To ensure the safety of the railway system.
+**Project description:** ProRail wants to know the location of all its insulated rail joints. To ensure the safety of the railway system.
 
 The goal was to developed a machine learning model and pipeline to accurately detect insulated rail joints in video footage.
 
