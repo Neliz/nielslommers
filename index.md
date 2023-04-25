@@ -18,19 +18,16 @@
 ---
 
 [Signal processing accelerometer data](/projects/InfraMonitoring.md) 
+<img src="https://www.researchgate.net/profile/Alireza-Qazizadeh/publication/322699553/figure/fig10/AS:586710375206916@1516894062393/Filtered-acceleration-data-measured-from-Alvik-to-Stora-Mossen-run-7.png?raw=true"/>
 
 ---
 
-## Graduation Project
-Descending: Measuring and comparing descending technique and performance in professional road cycling
+[Graduation Project](/projects/graduation.md) 
+
 <img src="images/descending.jpeg?raw=true"/>
 
-**Publications:**
-- [NOS](https://nos.nl/op3/artikel/2071886-kort-door-de-bocht-deze-fiets-helpt-wielrenners-met-dalen)
-- [Delta TU Delft](https://www.delta.tudelft.nl/article/gaining-time-corners)
-- [Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A437a6090-1e62-44fd-8426-9024efc4bd05)
+[NOS](https://nos.nl/op3/artikel/2071886-kort-door-de-bocht-deze-fiets-helpt-wielrenners-met-dalen)
 
----
 
 
 

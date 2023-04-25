@@ -14,3 +14,5 @@ I ensured that each frame of the railway images was categorized as part of a spe
 ### Results
 The machine learning model and pipeline developed for ProRail provides an efficient and accurate solution for classifing sleeper type segments. 
 
+### Used tools
+PyTorch, ResNet50, OpenCV, Python, AzureML, QGIS, GeoPandas, Pandas, Docker, MLFlow, SQL, SQLalchemy, GIT, Azure DevOps, Numba, Blob Storage

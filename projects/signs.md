@@ -10,3 +10,5 @@ I used my expertise in image recognition, signal processing and photogrammetry t
 
 The algorithm was successful, and ProRail decided to futher implement it into their regular workflow. The algorithm will help ProRail to improve their asset management, save time and manpower, and ultimately make the railway safer for everyone. 
 
+### Used tools
+PyTorch, YoloV5, Python, AzureML, QGIS, GeoPandas, Pandas, Folium, ONNX

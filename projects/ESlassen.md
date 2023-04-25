@@ -15,3 +15,5 @@ The machine learning model achieved an accuracy of 99,5% on a test set of video 
 The machine learning model and pipeline developed for ProRail provides an efficient and accurate solution for detecting electric rail welds in video footage, ensuring the safety and reliability of the railway system. The use of GradCAM further enhances the interpretability and transparency of the model's predictions.
 
 
+### Used tools
+PyTorch, ResNet50, GradCAM, OpenCV, Python, AzureML, QGIS, GeoPandas, Pandas, Docker, MLFlow, SQL, SQLalchemy, GIT, Azure DevOps, Numba, Blob Storage

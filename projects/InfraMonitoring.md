@@ -17,5 +17,6 @@ Spectrograms, on the other hand, are visual representations of the frequency con
 ### Results
 The InfraMonitoring system was found to be highly accurate in monitoring railway geometry from a passengertrain. The system was successfully implemented for multiple projects and clients, demonstrating its versatility and effectiveness in improving the safety and efficiency of railway operations.
 
-
+### Used tools
+Matlab, Signal Processing Toolbox, git, FFT, spectogram, NationalInstruments, 
 
