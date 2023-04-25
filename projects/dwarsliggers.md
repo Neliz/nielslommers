@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../styles.css">
+
 ## Image classification of rail sleepers
 
 **Project description:** ProRail wants to know the type of railway sleeper that is used on each section of the railway tracks to ensure the safety of the railway system. 

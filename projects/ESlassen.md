@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../styles.css">
+
 ## Image classification of insulated rail joints
 
 **Project description:** ProRail wants to know the location of all its insulated rail joints. To ensure the safety of the railway system.

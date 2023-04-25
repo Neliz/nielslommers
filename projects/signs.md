@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../styles.css">
+
 ## Artificial intelligence for inspection of railway safety sign 
 
 ProRail, the railway infrastructure manager in the Netherlands, wanted to improve the safety of their railway tracks by ensuring that safety signs were in the right place and in good condition. They had a lot of data but needed help to make sense of it.
