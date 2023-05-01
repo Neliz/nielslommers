@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../styles.css">
 
-# Portofolio
+# Portfolio
 
 [Image classification of insulated rail joints](/projects/ESlassen.md)
 
@@ -28,7 +28,6 @@
 
 [<img src="images/descending.jpeg?raw=true"/>](/projects/graduation.md) 
 
-[NOS](https://nos.nl/op3/artikel/2071886-kort-door-de-bocht-deze-fiets-helpt-wielrenners-met-dalen)
 
 
 
