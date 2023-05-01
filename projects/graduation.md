@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../styles.css">
+
 ## Graduation Project
 Descending: Measuring and comparing descending technique and performance in professional road cycling
 <img src="images/descending.jpeg?raw=true"/>

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../styles.css">
+
 ## InfraMonitoring (signal processing)
 
 **Project description:** I contributed to the InfraMonitoring project, which involves high-frequency monitoring of railway infrastructure from a passengertrain. The system, developed by Ricardo Rail, allows for continuous monitoring without negatively impacting the capacity of the railway. My focus was on the measurement equipement and on signal processing to convert accelerometer data into track geometry.
